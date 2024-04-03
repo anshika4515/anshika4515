@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika4515&label=Profile%20views&color=0e75b6&style=flat" alt="anshika4515" /> </p>
 
-- 💬 Ask me about **React, Java, C++, C**
+- 💬 Ask me about **React, Java, JavaScript **
 
 - 📫 How to reach me **anshikaverma4515@gmail.com**
 
