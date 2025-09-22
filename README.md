@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshika Verma</h1>
-<h3 align="center">A passionate Full Stack Developer from India | Backend & API Enthusiast</h3>
+<h3 align="center">A passionate Full Stack Developer | Backend & API Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshika4515&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -10,55 +10,51 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/anshika4515" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/anshika-v-406068232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:anshikaverma4515@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/v45__anshika/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---
 
-## 💻 About Me
+## 👩‍💻 About Me
 
-I am a **Full Stack Developer** with experience in **Java, Node.js, React, and Microservices**. I enjoy building **scalable backend systems, integrating APIs, and creating interactive web applications**.  
+I am a **Software Development Engineer Intern at Droom**, specializing in **backend development, scalable architectures, and system optimization**. I design and implement **RESTful APIs, microservices, and real-time data pipelines** powering high-performance, user-centric platforms.
 
-During my internship at **Droom**, I successfully integrated **payment gateways** and developed **microservices** that improved system efficiency and reliability.
+**Key Contributions at Droom:**
+
+- Engineered **microservices with RabbitMQ → MongoDB → Elasticsearch**, enabling real-time data synchronization for millions of automotive records.  
+- Integrated **Easebuzz payment gateways (QR, UPI VPA)**, streamlining digital payments and improving conversion rates.  
+- Deployed **Next.js-driven rental flows**, reducing booking friction and improving real-time pricing accuracy.  
+- Optimized **SEO with Core Web Vitals, XML sitemaps, and SEO management tools**, achieving 90+ Lighthouse scores and 100% SEO ranking improvement.  
+
+📄 **[Download My Resume](https://drive.google.com/file/d/1DOQzr4NtN5wIO3JIHOl3NDB_76OWUwtn/view?usp=sharing)**  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,javascript,php,mysql" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,laravel,tailwind" alt="Frontend & Backend" />
+</div>
 
----
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mongodb,elasticsearch,prisma,redis" alt="Databases & Styling" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,rabbitmq,aws,linux,vscode" alt="DevOps & Tools" />
+</div>
+
+<br/>
+<hr/>
+
 
 ## 🚀 Projects
 
 | Project | Description | Tech Stack | Live Demo | GitHub |
 |---------|-------------|------------|-----------|--------|
-| Dream Nest | Rental Management System for landlords & tenants with JWT authentication | Node.js, React.js, Express, MongoDB | [Live](#) | [Repo](#) |
-| Product Exchange | Platform to exchange products seamlessly between users | Node.js, React, MongoDB | [Live](#) | [Repo](#) |
-| AI Video Ad Generator | AI-based avatar synced with voice for marketing videos | Node.js, React, Express | [Live](#) | [Repo](#) |
-
-> Add more projects in the same format for visibility
+| Dream Nest | Rental Management System for landlords & tenants with JWT authentication | Node.js, React.js, Express, React Router, MongoDB, JWT, Postman, Vercel |[Live](https://booking-application-frontend.vercel.app/) | [Repo](https://github.com/anshika4515/Rental-Application) |
+| ProResume | Resume Builder with drag-and-drop interface and live preview | React.js, JavaScript, Bootstrap, HTML, CSS, Netlify | [Live](https://resume-builder-dusky-seven.vercel.app/) | [Repo](https://github.com/anshika4515/Resume-Builder) |
 
 ---
 
@@ -74,17 +70,7 @@ During my internship at **Droom**, I successfully integrated **payment gateways*
 
 ---
 
-## 🌟 Achievements & Highlights
-
-- Successfully integrated **payment gateway APIs** at Droom, enabling secure transactions  
-- Developed **microservices architecture** for scalable backend solutions  
-- Built **full-stack projects** using React, Node.js, MongoDB, and MySQL  
-- Strong problem-solving and debugging skills for complex system issues  
-
----
-
 ## ⚡ Fun Fact
 
-I love **learning new technologies**, exploring **backend architectures**, and occasionally **watching movies or reading books** in my free time.
+I love **learning new technologies**, exploring **backend architectures**, and occasionally **watching movies or reading books**.
 
----
