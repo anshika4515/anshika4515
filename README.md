@@ -42,7 +42,7 @@ I am a **𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃�
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,php,mysql" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=go,java,javascript,php,mysql" alt="Programming Languages" />
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,laravel,tailwind" alt="Frontend & Backend" />
 </div>
 
