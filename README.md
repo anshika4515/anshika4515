@@ -19,8 +19,15 @@
 
 ## 👩‍💻 About Me
 
-I am a **𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝘁 𝗩𝗮𝗵𝗮𝗻𝘄𝗶𝗿𝗲**, contributing to **backend development, system optimization, and scalable product engineering**. I design and implement **RESTful APIs, microservices, and real-time data pipelines** powering high-performance, user-centric platforms.
+I am a **𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝘁 𝗩𝗮𝗵𝗮𝗻𝘄𝗶𝗿𝗲**, contributing to **backend development, system optimization, and scalable product engineering**. 
 
+**At Vahanwire, I:**
+- Built scalable backend services using Golang & Node.js for high-performance mobile-first applications.
+- Built coupon & promo code systems with real-time validation and dynamic pricing for mobile applications.
+- Implemented payment gateway integrations (PayU) with secure transactions, webhooks, and refund workflows.
+- Architected backend systems for AMC (Annual Maintenance Contract) subscriptions, order management, and service tracking.
+- Integrated AWS S3 for secure storage of invoices, service documents, and media assets.
+  
 **𝗣𝗿𝗲𝘃𝗶𝗼𝘂𝘀𝗹𝘆, 𝗮𝘀 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗜𝗻𝘁𝗲𝗿𝗻 𝗮𝘁 𝗗𝗿𝗼𝗼𝗺, I:**
 - Engineered **microservices with RabbitMQ → MongoDB → Elasticsearch**, enabling real-time data synchronization for millions of automotive records.  
 - Integrated **Easebuzz payment gateways (QR, UPI VPA)**, streamlining digital payments and improving conversion rates.  
