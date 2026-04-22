@@ -27,7 +27,7 @@ I am a **𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃�
 - Deployed **Next.js-driven rental flows**, reducing booking friction and improving real-time pricing accuracy.  
 - Optimized **SEO with Core Web Vitals, XML sitemaps, and SEO management tools**, achieving 90+ Lighthouse scores and 100% SEO ranking improvement.  
 
-📄 **[Download My Resume](https://drive.google.com/file/d/1DOQzr4NtN5wIO3JIHOl3NDB_76OWUwtn/view?usp=sharing)**  
+📄 **[Download My Resume](https://drive.google.com/file/d/1v87Itl2vA7KhC-NmV_R0K74dm9WZWsse/view?usp=sharing)**  
 
 ---
 
